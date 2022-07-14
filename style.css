@@ -19,6 +19,7 @@
     font-weight: 900;
 }
 
+
 .para{
     color:white;
     font-size: 15px;
@@ -95,5 +96,59 @@
     margin-right: 250px;
 }
 
+.details{
+    display: flex;
+}
 
+.fifty2{
+    width: 50%;
+    padding: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: antiquewhite;
+}
 
+.foot{
+    background-color: #111111;
+    text-align: center;
+    height: 200px;
+}
+
+.big-color{
+    color: tomato;
+}
+
+.small-color{
+    color: white;
+}
+
+.img{
+    display: flex;
+}
+
+.three-img{
+    width: 300px;
+    padding: 20px;
+}
+
+.charity{
+    text-align: center;
+}
+
+.small-charity{
+    color: gray;
+    margin-left: 250px;
+    margin-right: 250px;
+    text-align: center;
+}
+
+.vector{
+    width: 300px;
+}
+
+.vector-small-text{
+
+    color: gray;
+    text-align: center;
+
+}
